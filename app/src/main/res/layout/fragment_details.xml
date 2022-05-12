@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#CA76C9"
+    android:layout_height="match_parent"
+    tools:context=".fragments.DetailsFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Прекрасный Код)"
+        android:textSize="40sp"
+        android:textColor="#0206CF"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"/>
+</FrameLayout>
